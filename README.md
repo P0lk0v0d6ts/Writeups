@@ -1,4 +1,6 @@
 # Writeups
-Writeups
+Репозиторий посвящен разборам заданий на разных ресурсах и CTF-соревнованиях.
 
-## Content
+## Содержание
+### WEB
+- **[PortSwigger] (PortSwigger/)**
