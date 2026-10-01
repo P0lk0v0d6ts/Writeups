@@ -1,0 +1,24 @@
+# Содержимое 
+
+- [ ] Lab: HTTP request smuggling, confirming a CL.TE vulnerability via differential responses
+- [ ] Lab: HTTP request smuggling, confirming a TE.CL vulnerability via differential responses
+- [ ] Lab: Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability
+- [ ] Lab: Exploiting HTTP request smuggling to bypass front-end security controls, TE.CL vulnerability
+- [ ] Lab: Exploiting HTTP request smuggling to reveal front-end request rewriting
+- [ ] Lab: Exploiting HTTP request smuggling to capture other users' requests
+- [ ] Lab: Exploiting HTTP request smuggling to deliver reflected XSS
+- [ ] Lab: Response queue poisoning via H2.TE request smuggling
+- [ ] Lab: H2.CL request smuggling
+- [ ] Lab: HTTP/2 request smuggling via CRLF injection
+- [ ] Lab: HTTP/2 request splitting via CRLF injection
+- [ ] Lab: 0.CL request smuggling
+- [ ] Lab: CL.0 request smuggling
+- [ ] Lab: HTTP request smuggling, basic CL.TE vulnerability
+- [ ] Lab: HTTP request smuggling, basic TE.CL vulnerability
+- [ ] Lab: HTTP request smuggling, obfuscating the TE header
+- [ ] Lab: Exploiting HTTP request smuggling to perform web cache poisoning
+- [ ] Lab: Exploiting HTTP request smuggling to perform web cache deception
+- [ ] Lab: Bypassing access controls via HTTP/2 request tunnelling
+- [ ] Lab: Web cache poisoning via HTTP/2 request tunnelling
+- [ ] Lab: Client-side desync
+- [ ] Lab: Server-side pause-based request smuggling
