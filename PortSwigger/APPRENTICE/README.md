@@ -2,4 +2,4 @@
 Writeups по задания уровня APPRENTICE
 
 ## Содержимое
-- [SQLi](SQL_Injection/)
+- [SQLi](SQL%20Injection/)
