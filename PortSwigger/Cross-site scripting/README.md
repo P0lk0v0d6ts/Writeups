@@ -1,0 +1,32 @@
+# Содержимое
+
+- [ ] Lab: Reflected XSS into HTML context with nothing encoded
+- [ ] Lab: Stored XSS into HTML context with nothing encoded
+- [ ] Lab: DOM XSS in document.write sink using source location.search
+- [ ] Lab: DOM XSS in innerHTML sink using source location.search
+- [ ] Lab: DOM XSS in jQuery anchor href attribute sink using location.search source
+- [ ] Lab: DOM XSS in jQuery selector sink using a hashchange event
+- [ ] Lab: Reflected XSS into attribute with angle brackets HTML-encoded
+- [ ] Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded
+- [ ] Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded
+- [ ] Lab: DOM XSS in document.write sink using source location.search inside a select element
+- [ ] Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
+- [ ] Lab: Reflected DOM XSS
+- [ ] Lab: Stored DOM XSS
+- [ ] Lab: Reflected XSS into HTML context with most tags and attributes blocked
+- [ ] Lab: Reflected XSS into HTML context with all tags blocked except custom ones
+- [ ] Lab: Reflected XSS with some SVG markup allowed
+- [ ] Lab: Reflected XSS in canonical link tag
+- [ ] Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped
+- [ ] Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped
+- [ ] Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped
+- [ ] Lab: Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
+- [ ] Lab: Exploiting cross-site scripting to steal cookies
+- [ ] Lab: Exploiting cross-site scripting to capture passwords
+- [ ] Lab: Exploiting XSS to bypass CSRF defenses
+- [ ] Lab: Reflected XSS with AngularJS sandbox escape without strings
+- [ ] Lab: Reflected XSS with AngularJS sandbox escape and CSP
+- [ ] Lab: Reflected XSS with event handlers and href attributes blocked
+- [ ] Lab: Reflected XSS in a JavaScript URL with some characters blocked
+- [ ] Lab: Reflected XSS protected by very strict CSP, with dangling markup attack
+- [ ] Lab: Reflected XSS protected by CSP, with CSP bypass
