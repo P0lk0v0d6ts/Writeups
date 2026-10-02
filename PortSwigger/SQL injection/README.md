@@ -1,8 +1,8 @@
 # Содержание
 
-- [ ] Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-- [ ] Lab: SQL injection vulnerability allowing login bypass
-- [ ] Lab: SQL injection attack, querying the database type and version on Oracle
+- [X] Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+- [X] Lab: SQL injection vulnerability allowing login bypass
+- [X] Lab: SQL injection attack, querying the database type and version on Oracle
 - [ ] Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
 - [ ] Lab: SQL injection attack, listing the database contents on non-Oracle databases
 - [ ] Lab: SQL injection attack, listing the database contents on Oracle
