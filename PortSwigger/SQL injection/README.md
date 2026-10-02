@@ -3,9 +3,9 @@
 - [X] Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
 - [X] Lab: SQL injection vulnerability allowing login bypass
 - [X] Lab: SQL injection attack, querying the database type and version on Oracle
-- [ ] Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
-- [ ] Lab: SQL injection attack, listing the database contents on non-Oracle databases
-- [ ] Lab: SQL injection attack, listing the database contents on Oracle
+- [X] Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
+- [X] Lab: SQL injection attack, listing the database contents on non-Oracle databases
+- [X] Lab: SQL injection attack, listing the database contents on Oracle
 - [ ] Lab: SQL injection UNION attack, determining the number of columns returned by the query
 - [ ] Lab: SQL injection UNION attack, finding a column containing text
 - [ ] Lab: SQL injection UNION attack, retrieving data from other tables
