@@ -10,11 +10,11 @@
 - [X] Lab: SQL injection UNION attack, finding a column containing text
 - [X] Lab: SQL injection UNION attack, retrieving data from other tables
 - [X] Lab: SQL injection UNION attack, retrieving multiple values in a single column
-- [ ] Lab: Blind SQL injection with conditional responses
-- [ ] Lab: Blind SQL injection with conditional errors
-- [ ] Lab: Visible error-based SQL injection
-- [ ] Lab: Blind SQL injection with time delays
-- [ ] Lab: Blind SQL injection with time delays and information retrieval
-- [ ] Lab: Blind SQL injection with out-of-band interaction
-- [ ] Lab: Blind SQL injection with out-of-band data exfiltration
-- [ ] Lab: SQL injection with filter bypass via XML encoding
+- [X] Lab: Blind SQL injection with conditional responses
+- [X] Lab: Blind SQL injection with conditional errors
+- [X] Lab: Visible error-based SQL injection
+- [X] Lab: Blind SQL injection with time delays
+- [X] Lab: Blind SQL injection with time delays and information retrieval
+- [X] Lab: Blind SQL injection with out-of-band interaction
+- [X] Lab: Blind SQL injection with out-of-band data exfiltration
+- [X] Lab: SQL injection with filter bypass via XML encoding
