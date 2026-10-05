@@ -1,0 +1,1 @@
+Lab: Visible error-based SQL injection
