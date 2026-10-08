@@ -9,7 +9,7 @@
 - [X] Lab: User ID controlled by request parameter with data leakage in redirect
 - [X] Lab: User ID controlled by request parameter with password disclosure
 - [X] Lab: Insecure direct object references
-- [ ] Lab: URL-based access control can be circumvented
-- [ ] Lab: Method-based access control can be circumvented
-- [ ] Lab: Multi-step process with no access control on one step
-- [ ] Lab: Referer-based access control
+- [X] Lab: URL-based access control can be circumvented
+- [X] Lab: Method-based access control can be circumvented
+- [X] Lab: Multi-step process with no access control on one step
+- [X] Lab: Referer-based access control
