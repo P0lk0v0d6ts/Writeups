@@ -1,8 +1,8 @@
 # Содержимое
 
-- [ ] Lab: Unprotected admin functionality
-- [ ] Lab: Unprotected admin functionality with unpredictable URL
-- [ ] Lab: User role controlled by request parameter
+- [X] Lab: Unprotected admin functionality
+- [X] Lab: Unprotected admin functionality with unpredictable URL
+- [X] Lab: User role controlled by request parameter
 - [ ] Lab: User role can be modified in user profile
 - [ ] Lab: User ID controlled by request parameter
 - [ ] Lab: User ID controlled by request parameter, with unpredictable user IDs
