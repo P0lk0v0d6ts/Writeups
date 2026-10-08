@@ -1,9 +1,9 @@
 # Содержимое
 
-- [ ] Lab: Username enumeration via different responses
-- [ ] Lab: 2FA simple bypass
-- [ ] Lab: Password reset broken logic
-- [ ] Lab: Username enumeration via subtly different responses
+- [X] Lab: Username enumeration via different responses
+- [X] Lab: 2FA simple bypass
+- [X] Lab: Password reset broken logic
+- [X] Lab: Username enumeration via subtly different responses
 - [ ] Lab: Username enumeration via response timing
 - [ ] Lab: Broken brute-force protection, IP block
 - [ ] Lab: Username enumeration via account lock
