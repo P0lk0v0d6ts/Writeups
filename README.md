@@ -4,3 +4,5 @@
 ## Содержание
 ### WEB
 - **[PortSwigger](PortSwigger/)**
+- **[Hack The Box](HackTheBox/)**
+- **[TryHackMe](TryHackMe/)**
